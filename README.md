@@ -1,1 +1,1 @@
-# react_projects
+# vineetha_tmdb_app
